@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h2{
+    color: #007bff;
+    text-decoration: underline;
+}
+
+article{
+    margin-bottom: 20px;
+}
+
+articles{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+lista{
+    list-style-type: circle;
+}
+
